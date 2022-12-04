@@ -1,0 +1,24 @@
+{
+  "name": "pet-project-thiagofurlan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tas-2022-2/pet-project-thiagofurlan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tas-2022-2/pet-project-thiagofurlan/issues"
+  },
+  "homepage": "https://github.com/tas-2022-2/pet-project-thiagofurlan#readme",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "jest-sonar": "^0.2.12",
+    "sonar-scanner": "^3.1.0"
+  }
+}
